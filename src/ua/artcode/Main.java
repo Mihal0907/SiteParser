@@ -1,5 +1,9 @@
 package ua.artcode;
 
+import ua.artcode.model.Article;
+import ua.artcode.parser.Parser;
+import ua.artcode.utils.JSONUtils;
+
 import java.io.IOException;
 import java.util.List;
 import java.util.stream.Collectors;
